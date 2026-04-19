@@ -1,0 +1,56 @@
+Loading config file: /home/kosmicvalkyrie/.config/openmw/openmw.cfg
+Loading config file: /home/kosmicvalkyrie/Games/TES3MP/openmw.cfg
+TES3MP client 0.8.1 (Linux 64-bit)
+Protocol version: 10
+Oldest compatible commit hash: 68954091c5
+------------------------------------------------------------
+
+OpenMW version 0.47.0
+Using default (English) font encoding.
+[2026-04-18 20:09:40] [INFO]: tes3mp started
+Loading settings file: /home/kosmicvalkyrie/Games/TES3MP/tes3mp-client-default.cfg
+[2026-04-18 20:09:40] [WARN]: Received ID_CONNECTION_REQUESTED_ACCEPTED from 192.168.4.8|25565
+idx: 0	checksum: 7B6AF5B9	file: /home/kosmicvalkyrie/.steam/steam/steamapps/common/Morrowind/Data Files/Morrowind.esm
+idx: 1	checksum: F481F334	file: /home/kosmicvalkyrie/.steam/steam/steamapps/common/Morrowind/Data Files/Tribunal.esm
+idx: 2	checksum: 43DD2132	file: /home/kosmicvalkyrie/.steam/steam/steamapps/common/Morrowind/Data Files/Bloodmoon.esm
+idx: 3	checksum: 86C32E8A	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/Tamriel_Data/00 Data Files/Tamriel_Data.esm
+idx: 4	checksum: 9F7EAD63	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/Tamriel_Data/00 Data Files/Tamriel_Data.omwscripts
+idx: 5	checksum: E75BA185	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/Tamriel_Rebuilt/00 Core/TR_Mainland.esm
+idx: 6	checksum: 4CC047A3	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/Tamriel_Rebuilt/00 Core/TR_Firemoth_remover.esp
+idx: 7	checksum: 224E553D	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/Tamriel_Rebuilt/00 Core/tamrielrebuilt.omwscripts
+idx: 8	checksum: CDF1C9EA	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/Project_Cyrodiil/00 Core/Cyr_Main.esm
+idx: 9	checksum: DF9309E3	file: /home/kosmicvalkyrie/Games/openmw_mods/PatchesFixesandConsistency/PatchforPurists/Patch for Purists.esm
+idx: 10	checksum: AD0929A0	file: /home/kosmicvalkyrie/Games/openmw_mods/PatchesFixesandConsistency/UnofficialMorrowindOfficialPluginsPatched/Compatibility Version/Unofficial Morrowind Official Plugins Patched.ESP
+idx: 11	checksum: 69B7D10	file: /home/kosmicvalkyrie/Games/openmw_mods/Performance/MorrowindOptimizationPatch/01 Lake Fjalding Anti-Suck/Lake Fjalding Anti-Suck.ESP
+idx: 12	checksum: B20601AC	file: /home/kosmicvalkyrie/Games/openmw_mods/UserInterface/StatsWindowExtender/StatsWindow.ESP
+idx: 13	checksum: 2866FF39	file: /home/kosmicvalkyrie/Games/openmw_mods/UserInterface/StatsWindowExtender/StatsWindow.omwscripts
+idx: 14	checksum: A59D9153	file: /home/kosmicvalkyrie/Games/openmw_mods/Gameplay/SkillFramework/SkillFramework.omwscripts
+idx: 15	checksum: B551E0D4	file: /home/kosmicvalkyrie/Games/openmw_mods/Gameplay/All_races_unlocked/All Races and Classes Unlocked - Vanilla and Tamriel_Data.ESP
+idx: 16	checksum: 7A6C9CC0	file: /home/kosmicvalkyrie/Games/openmw_mods/Gameplay/Bardcraft/Bardcraft.ESP
+idx: 17	checksum: 520EECA9	file: /home/kosmicvalkyrie/Games/openmw_mods/Gameplay/Bardcraft/Bardcraft.omwscripts
+[2026-04-18 20:09:42] [ERR]: Your plugins or their load order don't match the server's. A full comparison is included in your debug window and latest log file. In short, the following discrepancies have been found:
+
+3: Tamriel_Data.esm doesn't match Tamriel_Data.omwscripts , checksum 0x86C32E8A doesn't match 0x9F7EAD63
+4: Tamriel_Data.omwscripts doesn't match Tamriel_Data.esm, checksum 0x9F7EAD63 doesn't match 0x86C32E8A
+9: checksum 0xDF9309E3 doesn't match 0xF9309E3A
+[2026-04-18 20:09:42] [ERR]: Your current plugins are:                                                    To join this server, use:
+name                                                           hash          name                                                           hash
+Morrowind.esm                                                  0x7B6AF5B9    Morrowind.esm                                                  0x7B6AF5B9    0x34282D67    
+Tribunal.esm                                                   0xF481F334    Tribunal.esm                                                   0xF481F334    0x211329EF    
+Bloodmoon.esm                                                  0x43DD2132    Bloodmoon.esm                                                  0x43DD2132    0x9EB62F26    
+Tamriel_Data.esm                                               0x86C32E8A    Tamriel_Data.omwscripts                                        0x9F7EAD63    
+Tamriel_Data.omwscripts                                        0x9F7EAD63    Tamriel_Data.esm                                               0x86C32E8A    
+TR_Mainland.esm                                                0xE75BA185    TR_Mainland.esm                                                0xE75BA185    
+TR_Firemoth_remover.esp                                        0x4CC047A3    TR_Firemoth_remover.esp                                        0x4CC047A3    
+tamrielrebuilt.omwscripts                                      0x224E553D    tamrielrebuilt.omwscripts                                      0x224E553D    
+Cyr_Main.esm                                                   0xCDF1C9EA    Cyr_Main.esm                                                   0xCDF1C9EA    
+Patch for Purists.esm                                          0xDF9309E3    Patch for Purists.esm                                          0xF9309E3A    
+Unofficial Morrowind Official Plugins Patched.ESP              0xAD0929A0    Unofficial Morrowind Official Plugins Patched.ESP              0xAD0929A0    
+Lake Fjalding Anti-Suck.ESP                                    0x069B7D10    Lake Fjalding Anti-Suck.ESP                                    0x069B7D10    
+StatsWindow.ESP                                                0xB20601AC    StatsWindow.ESP                                                0xB20601AC    
+StatsWindow.omwscripts                                         0x2866FF39    StatsWindow.omwscripts                                         0x2866FF39    
+SkillFramework.omwscripts                                      0xA59D9153    SkillFramework.omwscripts                                      0xA59D9153    
+All Races and Classes Unlocked - Vanilla and Tamriel_Data.ESP  0xB551E0D4    All Races and Classes Unlocked - Vanilla and Tamriel_Data.ESP  0xB551E0D4    
+Bardcraft.ESP                                                  0x7A6C9CC0    Bardcraft.ESP                                                  0x7A6C9CC0    
+Bardcraft.omwscripts                                           0x520EECA9    Bardcraft.omwscripts                                           0x520EECA9    
+[2026-04-18 20:10:22] [INFO]: tes3mp stopped
