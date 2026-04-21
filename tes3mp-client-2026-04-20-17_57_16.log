@@ -1,0 +1,85 @@
+Loading config file: /home/kosmicvalkyrie/.config/openmw/openmw.cfg
+Loading config file: /home/kosmicvalkyrie/Games/TES3MP/openmw.cfg
+TES3MP client 0.8.1 (Linux 64-bit)
+Protocol version: 10
+Oldest compatible commit hash: 68954091c5
+------------------------------------------------------------
+
+OpenMW version 0.47.0
+Using default (English) font encoding.
+[2026-04-20 17:57:16] [INFO]: tes3mp started
+Loading settings file: /home/kosmicvalkyrie/Games/TES3MP/tes3mp-client-default.cfg
+[2026-04-20 17:57:16] [WARN]: Received ID_CONNECTION_REQUESTED_ACCEPTED from 192.168.4.8|25565
+idx: 0	checksum: 7B6AF5B9	file: /home/kosmicvalkyrie/.steam/steam/steamapps/common/Morrowind/Data Files/Morrowind.esm
+idx: 1	checksum: F481F334	file: /home/kosmicvalkyrie/.steam/steam/steamapps/common/Morrowind/Data Files/Tribunal.esm
+idx: 2	checksum: 43DD2132	file: /home/kosmicvalkyrie/.steam/steam/steamapps/common/Morrowind/Data Files/Bloodmoon.esm
+idx: 3	checksum: 86C32E8A	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/Tamriel_Data/00 Data Files/Tamriel_Data.esm
+idx: 4	checksum: E75BA185	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/Tamriel_Rebuilt/00 Core/TR_Mainland.esm
+idx: 5	checksum: 4CC047A3	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/Tamriel_Rebuilt/00 Core/TR_Firemoth_remover.esp
+idx: 6	checksum: CDF1C9EA	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/Project_Cyrodiil/00 Core/Cyr_Main.esm
+idx: 7	checksum: 7ECA4B8A	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/Sky_main/00 Core/Sky_Main.esm
+idx: 8	checksum: DF9309E3	file: /home/kosmicvalkyrie/Games/openmw_mods/PatchesFixesandConsistency/PatchforPurists/Patch for Purists.esm
+idx: 9	checksum: 9BF77BB1	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/OAABData/00 Core/OAAB_Data.esm
+idx: 10	checksum: AD0929A0	file: /home/kosmicvalkyrie/Games/openmw_mods/PatchesFixesandConsistency/UnofficialMorrowindOfficialPluginsPatched/Compatibility Version/Unofficial Morrowind Official Plugins Patched.ESP
+idx: 11	checksum: 69B7D10	file: /home/kosmicvalkyrie/Games/openmw_mods/Performance/MorrowindOptimizationPatch/01 Lake Fjalding Anti-Suck/Lake Fjalding Anti-Suck.ESP
+idx: 12	checksum: 75E9B1B1	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/OAABShipwrecks/00 Core/OAAB - Shipwrecks.esm
+idx: 13	checksum: 180AC409	file: /home/kosmicvalkyrie/Games/openmw_mods/Content/OAABShipwrecks/02 Patch - TR Patch/OAAB - Shipwrecks - TR Patch.ESP
+idx: 14	checksum: 1F5D2E2A	file: /home/kosmicvalkyrie/Games/openmw_mods/FurnitureandClutter/OpenMWContainersAnimated/Containers Animated/Containers Animated.esp
+idx: 15	checksum: 1D3EF8BB	file: /home/kosmicvalkyrie/Games/openmw_mods/Models/VSBR Vanilla style body replacer/VSBR.ESP
+idx: 16	checksum: CA5024C3	file: /home/kosmicvalkyrie/Games/openmw_mods/Gameplay/SkillbookRework/SkillBook_Rework.ESP
+idx: 17	checksum: E9525273	file: /home/kosmicvalkyrie/Games/openmw_mods/UserInterface/CantonsontheGlobalMap/Data Files/Cantons_on_the_Global_Map_v1.1.esp
+idx: 18	checksum: 5313514D	file: /home/kosmicvalkyrie/Games/openmw_mods/Gameplay/CatCatchers/Data Files/Cat-Catchers.ESM
+idx: 19	checksum: 76831F18	file: /home/kosmicvalkyrie/Games/openmw_mods/Gameplay/CatCatchers/Data Files/Cat-Catchers_OAAB.ESP
+idx: 20	checksum: A436E402	file: /home/kosmicvalkyrie/Games/openmw_mods/NPCs/Corgi/00 Core/md_corgi_companion.esp
+idx: 21	checksum: B551E0D4	file: /home/kosmicvalkyrie/Games/openmw_mods/Gameplay/All_races_unlocked/All Races and Classes Unlocked - Vanilla and Tamriel_Data.ESP
+idx: 22	checksum: C800E6B4	file: /home/kosmicvalkyrie/Games/openmw_mods/Quests/OAABTwinLamps/OAAB Brother Junipers Twin Lamps.esp
+idx: 23	checksum: BAC5E4AC	file: /home/kosmicvalkyrie/Games/openmw_mods/Armor/VSRBFemShirts/Data Files/FemaleShirts.ESP
+idx: 24	checksum: C49AEB52	file: /home/kosmicvalkyrie/Games/openmw_mods/Armor/ArgonianFullHelms/Data Files/Argonian Full Helms Lore Integrated.ESP
+[2026-04-20 17:57:17] [ERR]: Your plugins or their load order don't match the server's. A full comparison is included in your debug window and latest log file. In short, the following discrepancies have been found:
+
+7: Sky_Main.esm doesn't match Patch for Purists.esm, checksum 0x7ECA4B8A doesn't match 0xDF9309E3
+8: Patch for Purists.esm doesn't match Unofficial Morrowind Official Plugins Patched.ESP, checksum 0xDF9309E3 doesn't match 0xAD0929A0
+9: OAAB_Data.esm doesn't match Lake Fjalding Anti-Suck.ESP, checksum 0x9BF77BB1 doesn't match 0x069B7D10
+10: Unofficial Morrowind Official Plugins Patched.ESP doesn't match All Races and Classes Unlocked - Vanilla and Tamriel_Data.ESP, checksum 0xAD0929A0 doesn't match 0xB551E0D4
+11: Lake Fjalding Anti-Suck.ESP is past the number of plugins used by the server
+12: OAAB - Shipwrecks.esm is past the number of plugins used by the server
+13: OAAB - Shipwrecks - TR Patch.ESP is past the number of plugins used by the server
+14: Containers Animated.esp is past the number of plugins used by the server
+15: VSBR.ESP is past the number of plugins used by the server
+16: SkillBook_Rework.ESP is past the number of plugins used by the server
+17: Cantons_on_the_Global_Map_v1.1.esp is past the number of plugins used by the server
+18: Cat-Catchers.ESM is past the number of plugins used by the server
+19: Cat-Catchers_OAAB.ESP is past the number of plugins used by the server
+20: md_corgi_companion.esp is past the number of plugins used by the server
+21: All Races and Classes Unlocked - Vanilla and Tamriel_Data.ESP is past the number of plugins used by the server
+22: OAAB Brother Junipers Twin Lamps.esp is past the number of plugins used by the server
+23: FemaleShirts.ESP is past the number of plugins used by the server
+24: Argonian Full Helms Lore Integrated.ESP is past the number of plugins used by the server
+[2026-04-20 17:57:17] [ERR]: Your current plugins are:                                                    To join this server, use:
+name                                                           hash          name                                                           hash
+Morrowind.esm                                                  0x7B6AF5B9    Morrowind.esm                                                  0x7B6AF5B9    0x34282D67    
+Tribunal.esm                                                   0xF481F334    Tribunal.esm                                                   0xF481F334    0x211329EF    
+Bloodmoon.esm                                                  0x43DD2132    Bloodmoon.esm                                                  0x43DD2132    0x9EB62F26    
+Tamriel_Data.esm                                               0x86C32E8A    Tamriel_Data.esm                                               0x86C32E8A    
+TR_Mainland.esm                                                0xE75BA185    TR_Mainland.esm                                                0xE75BA185    
+TR_Firemoth_remover.esp                                        0x4CC047A3    TR_Firemoth_remover.esp                                        0x4CC047A3    
+Cyr_Main.esm                                                   0xCDF1C9EA    Cyr_Main.esm                                                   0xCDF1C9EA    
+Sky_Main.esm                                                   0x7ECA4B8A    Patch for Purists.esm                                          0xDF9309E3    
+Patch for Purists.esm                                          0xDF9309E3    Unofficial Morrowind Official Plugins Patched.ESP              0xAD0929A0    
+OAAB_Data.esm                                                  0x9BF77BB1    Lake Fjalding Anti-Suck.ESP                                    0x069B7D10    
+Unofficial Morrowind Official Plugins Patched.ESP              0xAD0929A0    All Races and Classes Unlocked - Vanilla and Tamriel_Data.ESP  0xB551E0D4    
+Lake Fjalding Anti-Suck.ESP                                    0x069B7D10    
+OAAB - Shipwrecks.esm                                          0x75E9B1B1    
+OAAB - Shipwrecks - TR Patch.ESP                               0x180AC409    
+Containers Animated.esp                                        0x1F5D2E2A    
+VSBR.ESP                                                       0x1D3EF8BB    
+SkillBook_Rework.ESP                                           0xCA5024C3    
+Cantons_on_the_Global_Map_v1.1.esp                             0xE9525273    
+Cat-Catchers.ESM                                               0x5313514D    
+Cat-Catchers_OAAB.ESP                                          0x76831F18    
+md_corgi_companion.esp                                         0xA436E402    
+All Races and Classes Unlocked - Vanilla and Tamriel_Data.ESP  0xB551E0D4    
+OAAB Brother Junipers Twin Lamps.esp                           0xC800E6B4    
+FemaleShirts.ESP                                               0xBAC5E4AC    
+Argonian Full Helms Lore Integrated.ESP                        0xC49AEB52    
+[2026-04-20 17:57:29] [INFO]: tes3mp stopped
